@@ -32,5 +32,5 @@ I am Swagata. I am currently pursuing my Undergraduate degree in Computer Scienc
 
 Feel free to connect with me here:
 
-[![Linkedin Badge](https://img.shields.io/badge/-swagatajana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swagata-jana/)](https://www.linkedin.com/in/swagata-jana/)
-[![Gmail Badge](https://img.shields.io/badge/-swagatajana2014.sj@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:swagatajana2014.sj@gmail.com)](mailto:swagatajana2014.sj@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-swagatajana-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/swagata-jana/)](https://www.linkedin.com/in/swagata-jana/)
+[![Gmail Badge](https://img.shields.io/badge/-swagatajana2014.sj@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:swagatajana2014.sj@gmail.com)](mailto:swagatajana2014.sj@gmail.com)
