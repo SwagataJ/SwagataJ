@@ -1,6 +1,6 @@
 ## Hey There! 👋
 
-I am Swagata. I am currently pursuing my Undergraduate degree in Computer Science from [Lakshmi Narain College of Technology and Science](https://lnct.ac.in/). 
+I am Swagata. I am currently pursuing my Undergraduate degree in Computer Science from [Lakshmi Narain College of Technology and Science](https://lnct.ac.in/). I take pleasure in finding solutions for intractable problems.
 
 ## 🗣️ Languages
 
