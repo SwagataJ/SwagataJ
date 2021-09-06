@@ -1,4 +1,4 @@
-## Hey There! 👋
+## Hey There! <img src ="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75">
 
 I am Swagata. I am currently pursuing my Undergraduate degree in Computer Science from [Lakshmi Narain College of Technology and Science](https://lnct.ac.in/). I take pleasure in finding solutions for intractable problems.
 
@@ -27,6 +27,13 @@ I am Swagata. I am currently pursuing my Undergraduate degree in Computer Scienc
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
+
+
+## 📊 Profiles
+
+[![CodeChef](https://img.shields.io/badge/-CodeChef-yellowgreen?style=for-the-badge&logo=CodeChef&logoColor=black&link=https://www.codechef.com/users/twopie)](https://www.codechef.com/users/twopie)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-000000?style=for-the-badge&logo=Codeforces&logoColor=yellow&link=https://codeforces.com/profile/scorchlight)](https://codeforces.com/profile/scorchlight)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/SwagataJ/)](https://leetcode.com/SwagataJ/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SwagataJ&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
 
