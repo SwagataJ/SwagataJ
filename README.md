@@ -32,7 +32,7 @@ I am Swagata. I am currently pursuing my Undergraduate degree in Computer Scienc
 ## 📊 Profiles
 
 [![CodeChef](https://img.shields.io/badge/-CodeChef-yellowgreen?style=for-the-badge&logo=CodeChef&logoColor=black&link=https://www.codechef.com/users/twopie)](https://www.codechef.com/users/twopie)
-[![Codeforces](https://img.shields.io/badge/-Codeforces-000000?style=for-the-badge&logo=Codeforces&logoColor=yellow&link=https://codeforces.com/profile/scorchlight)](https://codeforces.com/profile/scorchlight)
+[![Codeforces](https://img.shields.io/badge/-Codeforces-000000?style=for-the-badge&logo=Codeforces&logoColor=yellow&link=https://codeforces.com/profile/SwagataJ)](https://codeforces.com/profile/SwagataJ)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black&link=https://leetcode.com/SwagataJ/)](https://leetcode.com/SwagataJ/)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=SwagataJ&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
