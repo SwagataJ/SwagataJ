@@ -1,6 +1,6 @@
 ## Hey There! <img src ="https://media.giphy.com/media/ujrj9aoOdNvXO/giphy.gif" width="75">
 
-I am Swagata. I am currently pursuing my Undergraduate degree in Computer Science from [Lakshmi Narain College of Technology and Science](https://lnct.ac.in/). I love finding solutions for intractable problems.
+I am Swagata. I am currently working as a Machine Learning Engineer after completing my Undergraduate degree in Computer Science from [Lakshmi Narain College of Technology and Science](https://lnct.ac.in/). I love finding solutions for intractable problems.
 
 ### 🛠 &nbsp;Tech Stack
 
